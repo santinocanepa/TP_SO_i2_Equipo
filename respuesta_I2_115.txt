@@ -9,3 +9,22 @@ respuesta b: No se puede
 respuesta c: No se puede.
 
 Respuesta d: Sí, se pierden.
+
+respuesta e:
+
+1-git clone en una carpeta vacía con el link del repositorio.
+2-se cambia el archivo
+3-git add .
+4-git commit -m "modificación".
+5-git push.
+6-Se forkea el repositorio.
+7-git clone en una carpeta vacía con el link del repositorio forkeado.
+8-Se modifica el archivo.
+9- git add .
+10- git commit -m "modificación2"
+11-git push
+12-Beta crea nuevo archivo.
+13-Sync fork en los repositorios forkeados para recibir los cambios.
+14-Respondemos preguntas.
+15-Contribute desde los forkeados para actualizar el archivo principal del respotorio.
+16-Beta acepta el contribute.
